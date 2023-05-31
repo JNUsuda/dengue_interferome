@@ -1,3 +1,3 @@
 # dengue_interferome
 
-Codes used in the original research paper "".
+Codes used in the original research paper "The interferome signature during the anti-dengue immune response: a systems biology characterization".
